@@ -1,6 +1,11 @@
 <div align="center">
 
+<!--
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=정대현&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=내%20이름은%20정대현%&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlign=50&fontAlignY=55&desc=백엔드%20개발자%20정대현입니다.%204년차의%20성실한%20기록과%20성장스토리를%20담았습니다.&descAlign=50&descAlignY=70" />
+</p>
 
 ### 👋 Welcome to my GitHub Portfolio!
 
@@ -16,9 +21,9 @@
 ## 💡 About Me
 
 - 🧑‍💻 경력: 4년
-- 🎯 주요 업무: ERP원가/전자구매/IT자산관리/고충처리 등 시스템 유지보수 및 신규 기능 개발
+- 🎯 주요 업무: ERP원가/전자구매/IT자산관리/환경안전보건고충처리 등 시스템 유지보수 및 신규 기능 개발
 - 👥 PL 경험: 2건 (총 11개월)
-- 🧰 사용 기술: Java, Python, Django, JSP, JavaScript, jQuery, MyBatis, SQL
+- 🧰 사용 기술: Java, JSP, JavaScript, jQuery, MyBatis, SQL, Python, Django 등
 - 🔗 연동 경험: SAP, OZ e-Form, 전자결재 시스템 등
 - 🪪 자격증: SQLD, 정보처리기사
 
@@ -86,7 +91,7 @@
 <div align="center">
   
 📫 Email: solar1257@naver.com  
-📍 위치: 경기 부천시 송내<br>
+📍 Address: 경기 부천시 송내<br>
 🔗 LinkedIn, Notion 포트폴리오, 블로그 등 추가 링크도 가능
 
 </div>
