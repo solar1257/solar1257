@@ -16,10 +16,10 @@
 ## 💡 About Me
 
 - 🧑‍💻 경력: 4년
-- 🎯 주요 업무: ERP원가/전자구매/IT자산 시스템/고충처리 시스템 유지보수 및 신규 기능 개발
+- 🎯 주요 업무: ERP원가/전자구매/IT자산관리/고충처리 등 시스템 유지보수 및 신규 기능 개발
 - 👥 PL 경험: 2건 (총 11개월)
 - 🧰 사용 기술: Java, Python, Django, JSP, JavaScript, jQuery, MyBatis, SQL
-- 🔗 연동 경험: SAP, OZ Report, 전자결재 시스템 등
+- 🔗 연동 경험: SAP, OZ e-Form, 전자결재 시스템 등
 - 🪪 자격증: SQLD, 정보처리기사
 
 ---
@@ -28,17 +28,18 @@
 <p>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSP-ffb700?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/MyBatis-0C6BA0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-<br/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/OZ%20Report-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OZ%20e--Form-0096C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/dJango-092E20?style=for-the-badge&logo=dJango&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
 </p>
 
@@ -56,18 +57,24 @@
 
 ---
 
-## 📘 Work Experience Summary
+## 💼 Work Experience
 
-> 소속: 넥스트소프트  
-> 파견처: DB Inc → DB하이텍 (협력 개발)  
-> 업무 방식: 유지보수 + 신규 개발 + 프로젝트 리딩 경험 다수
+### 🏢 넥스트소프트 (2021.08 ~ 2022.12)  
+> *DB Inc 소속 협력사로서 DB하이텍에 근무*
 
-- 시스템 성격에 따라 다양한 설계 방식 및 연동 구조를 경험
-- 사용자 중심 UI/UX 개선 및 기능 최적화
-- SAP, OZ, 전자결재 등 외부 시스템과의 복합 연동 경험
+- IT자산관리 및 ERP원가 등 시스템 유지보수 및 신규 기능 개발
+- 전자구매 시스템 신규 메뉴(원자재품질관리) 구축 프로젝트 PL 수행  
+
+### 🏢 지에스비아이 (2023.01 ~ 2025.05)  
+> *DB Inc 소속 협력사로서 DB하이텍에 근무*
+
+- ERP원가 시스템 프레임워크 전환 프로젝트 PL 수행  
+- ERP원가 및 전자구매 등 시스템 유지보수 및 신규 기능 개발  
+- SAP, OZ e-Form, 전자결재 등 외부 시스템 연동 경험 보유 
 
 ---
 
+<!--
 ## 📝 Blog & Stats
 
 [![Velog](https://velog-readme-stats.vercel.app/api?name=사용자ID)](https://velog.io/@사용자ID)  
@@ -75,11 +82,11 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solar1257&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
-
+-->
 <div align="center">
   
-📫 Email: your.email@example.com  
-📍 위치: South Korea  
+📫 Email: solar1257@naver.com  
+📍 위치: 경기 부천시 송내<br>
 🔗 LinkedIn, Notion 포트폴리오, 블로그 등 추가 링크도 가능
 
 </div>
