@@ -64,7 +64,7 @@
 
 🔗 각 프로젝트 요약 바로가기<br>
 - [📁 전자구매 원자재품질관리 개발 요약](projects/01_quality-management/README.md)  
-- [📁 ERP원가 프레임워크 전환 요약](projects/02_erp-framework-migration/README.md)  
+- [📁 ERP원가 프레임워크 전환 요약](projects/02_erpCost-framework-migration/README.md)  
 - [📁 유지보수 업무 요약](projects/03_system-maintenance/README.md)
 
 ---
