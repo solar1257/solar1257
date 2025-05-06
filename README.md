@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=정대현&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=내%20이름은%20정대현%&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlign=50&fontAlignY=55&desc=백엔드%20개발자%20정대현입니다.%204년차의%20성실한%20기록과%20성장스토리를%20담았습니다.&descAlign=50&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=내%20이름은%20정대현%&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlign=50&fontAlignY=55&desc=백엔드%20개발자%20정대현입니다.%204년간의%20성실한%20기록과%20성장스토리를%20담았습니다.&descAlign=50&descAlignY=70" />
 </p>
 
 ### 👋 Welcome to my GitHub Portfolio!
@@ -52,13 +52,17 @@
 
 ## 🧩 Major Projects
 
-| 기간 | 프로젝트 | 역할 |
-|------|----------|------|
-| `2022.08 ~ 2022.11` | 전자구매 시스템 내 `원자재 품질관리` 신규 메뉴 개발 | PL 및 설계, 개발 |
-| `2023.03 ~ 2023.11` | ERP원가 시스템 프레임워크 전환 | PL, 설계 및 마이그레이션 주도 |
-| `2021.08 ~ 2025.05` | IT자산관리/ERP원가/전자구매 시스템 유지보수 및 기능 추가 | 전반적 유지보수 및 백엔드 개발 |
+| 기간                  | 프로젝트                                                        | 주요 역할 및 기여도                                                                                      |
+| ------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| `2022.08 ~ 2022.11` | [전자구매 시스템 원자재품질관리 신규 개발](#) <br> *(DB하이텍 / DB Inc 협력 프로젝트)* | 🔹 **PL 및 설계·개발 주도**<br>🔹 원자재 품질관리 메뉴 신규 기획 및 구현<br>|
+| `2023.03 ~ 2023.11` | [ERP원가 시스템 프레임워크 전환](#) <br> *(DB하이텍 / DB Inc 협력 프로젝트)* | 🔹 **PL, 설계 및 마이그레이션 총괄**<br>🔹 기존 프레임워크를 Spring 기반으로 전환<br>🔹 주요 DB 구조 리팩토링 및 데이터 이관 주도 |
+| `2021.08 ~ 2025.05` | [IT자산관리 / ERP원가 / 전자구매 등 시스템 유지보수 및 구축](#) <br> *(DB하이텍 / DB Inc 협력)* | 🔹 **사내 주요 시스템 백엔드 유지보수 담당**<br>🔹 자바 기반 기능 개선 및 오류 대응<br>🔹 OZ e-Form 기반 품질 리포트 출력 기능 개발<br> 🔹 업무 효율화 위한 사용자 피드백 반영 개발 다수 |
 
-👉 [각 프로젝트 저장소 바로가기](#)
+⚠️ Note
+보안 정책에 따라 프로젝트 코드와 상세 문서 공유는 불가합니다.<br>
+프로젝트 개요 및 역할은 아래 저장소별 요약 페이지를 통해 확인 가능합니다.
+
+🔗 각 프로젝트 요약 바로가기
 
 ---
 
