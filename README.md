@@ -8,7 +8,7 @@
 </p>
 -->
 
-# Jeond Dae Hyun
+# Jeong Dae Hyun
  
 
 ### 👋 Welcome to my GitHub Portfolio!
