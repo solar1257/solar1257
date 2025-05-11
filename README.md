@@ -3,9 +3,13 @@
 <!--
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=정대현&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 -->
-<p align="center">
+<!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=내%20이름은%20정대현%&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlign=50&fontAlignY=55&desc=백엔드%20개발자%20정대현입니다.%204년간의%20성실한%20기록과%20성장스토리를%20담았습니다.&descAlign=50&descAlignY=70" />
 </p>
+-->
+
+# Jeond Dae Hyun
+ 
 
 ### 👋 Welcome to my GitHub Portfolio!
 
