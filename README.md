@@ -8,13 +8,13 @@
 </p>
 -->
 
-# Jeong Dae Hyun
+# 정대현
  
 
 ### 👋 Welcome to my GitHub Portfolio!
 
 4년간 사내 시스템의 유지보수 및 신규 기능 개발을 맡아오며  
-**ERP원가 시스템**, **전자구매 시스템**, **IT자산관리 시스템** 등 다양한 업무 경험을 쌓았습니다.  
+**전자구매 시스템**, **ERP원가 시스템**, **IT자산관리 시스템** 등 다양한 업무 경험을 쌓았습니다.  
 신중한 분석과 안정적인 코드로 문제를 해결하며,  
 **PL 경험**, **다양한 기술 스택**, **협업 역량**을 두루 갖춘 백엔드 중심 개발자입니다.
 
@@ -25,9 +25,9 @@
 ## 💡 About Me
 
 - 🧑‍💻 경력: 4년
-- 🎯 주요 업무: ERP원가/전자구매/IT자산관리/환경안전보건고충처리 등 시스템 유지보수 및 신규 기능 개발
+- 🎯 주요 업무: 전자구매/ERP원가/IT자산관리/환경안전보건고충처리 등 시스템 유지보수 및 신규 기능 개발
 - 👥 PL 경험: 2건 (총 11개월)
-- 🧰 사용 기술: Java, JSP, JavaScript, jQuery, MyBatis, SQL, Python, Django 등
+- 🧰 사용 기술: Java, JavaScript, jQuery, MyBatis, SQL, Python, Django 등
 - 🔗 연동 경험: SAP, OZ e-Form, 전자결재 시스템 등
 - 🪪 자격증: SQLD, 정보처리기사
 
@@ -103,6 +103,7 @@
   
 📫 Email: solar1257@naver.com  
 📍 Address: 경기 부천시 송내<br>
-🔗 LinkedIn, Notion 포트폴리오, 블로그 등 추가 링크도 가능
+🔗 포트폴리오: https://solar1257.github.io/
+🔗 LinkedIn, Notion 
 
 </div>
