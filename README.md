@@ -8,7 +8,7 @@
 </p>
 -->
 
-# 백엔드 개발자 정대현
+# 정대현
  
 
 ### 👋 Welcome to my GitHub Portfolio!
@@ -29,7 +29,7 @@
 - 👥 PL 경험: 2건 (총 11개월)
 - 🧰 사용 기술: Java, JavaScript, jQuery, MyBatis, SQL, Python, Django 등
 - 🔗 연동 경험: SAP, OZ e-Form, 전자결재 시스템 등
-- 🪪 자격증: SQLD, 정보처리기사
+- 🏅 보유 자격증: SQLD, 정보처리기사
 
 ---
 
