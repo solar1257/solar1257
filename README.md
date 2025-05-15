@@ -8,7 +8,7 @@
 </p>
 -->
 
-# 정대현
+# 백엔드 개발자 정대현
  
 
 ### 👋 Welcome to my GitHub Portfolio!
@@ -103,7 +103,7 @@
   
 📫 Email: solar1257@naver.com  
 📍 Address: 경기 부천시 송내<br>
-🔗 포트폴리오: https://solar1257.github.io/
+🔗 포트폴리오: https://solar1257.github.io/ <br>
 🔗 LinkedIn, Notion 
 
 </div>
