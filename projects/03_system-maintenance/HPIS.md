@@ -15,4 +15,4 @@ DB하이텍과 협력 업체 간의 전체 구매 프로세스를 지원하는 �
 - 외부 사용자를 위한 안정성 확보 및 UI 개선
 
 ## 🖼️ 시스템 화면
-![구매 시스템 캡처](./screenshots/hpis_main.png)
+![구매 시스템 캡처](./picture/hpis_main.png)
