@@ -1,7 +1,8 @@
 # 🛒 구매 시스템 (Procurement System)
-[👉 시스템 바로가기](https://hpis.dbhitek.com/)
 
 DB하이텍과 협력 업체 간의 전체 구매 프로세스를 지원하는 시스템입니다.
+
+<a href="hpis.dbhitek.com" target="_blank">👉 시스템 바로가기</a>
 
 ## 🔹 주요 기능
 - 계약/입찰/제안/소싱 등 전체 구매 절차 관리
