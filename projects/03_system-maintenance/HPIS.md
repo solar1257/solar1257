@@ -1,4 +1,5 @@
 # 🛒 구매 시스템 (Procurement System)
+[👉 시스템 바로가기](https://example.com/procurement-system)
 
 DB하이텍과 협력 업체 간의 전체 구매 프로세스를 지원하는 시스템입니다.
 
