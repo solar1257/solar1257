@@ -11,10 +11,6 @@ DB하이텍과 협력 업체 간의 전체 구매 프로세스를 지원하는 �
 - 업체 평가 및 자재 품질 검증
 - 외부 업체 문의 서비스
 
-## 💼 역할
-- 유지보수 및 신규 기능 개발
-- 외부 사용자를 위한 안정성 확보 및 UI 개선
-
 ## 🧩 기술 스택
 Java, Spring, JavaScript, jQuery, HTML, CSS, MyBatis, Oracle DB, Git, OZ e-Form
 
