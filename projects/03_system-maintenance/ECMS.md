@@ -1,4 +1,4 @@
-# 🛒 원가 시스템 (Procurement System)
+# 📊 원가 시스템 (Procurement System)
 
 DB하이텍의 자재 및 생산 관련 비용을 계산하고 계획을 수립하는 시스템입니다.
 
