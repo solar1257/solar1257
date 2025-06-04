@@ -1,19 +1,14 @@
-# 시스템 유지보수 업무
+# 🧾 환경안전보건고충처리 시스템 (ESHS Report System)
 
-## 📌 개요
-DB Inc 협력직으로 DB하이텍에서 근무하면서 담당한 시스템입니다.
+내부 직원 및 외부 협력사/주민을 대상으로 한 고충 접수 시스템입니다.
 
-## 🛠 기술스택
-- Java, JSP, jQuery, MyBatis
-- Oracle DB
-- Spring
-- OZ e-Form
+## 🔹 주요 기능
+- 익명 제보 가능
+- 제보 접수 및 이력 관리
+- 안전관리팀의 처리 절차 기록
 
-## 🧩 주요 역할
-- 요구사항 분석 및 고객 커뮤니케이션
-- DB 설계
-- UI 화면 설계 및 인터페이스 구현
-- 테스트 및 배포
+## 🧩 기술 스택
+Java, Spring, JavaScript, jQuery, HTML, CSS, MyBatis, Oracle DB, Git
 
-## 🔍 상세 기여 내용
-- 업무 효율화 위한 사용자 피드백 반영 개발 다수
+## 🖼️ 시스템 화면
+![제보 시스템 캡처](./picture/difs_main.png)
